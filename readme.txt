@@ -1,9 +1,8 @@
 == Heaven11 ==
 Version: 1.0.9
-Copyright: 2023, AxiomThemes
+Copyright: 2023, Mortageg Themes
 WordPress version: required at least 4.5, tested up to 6.3.2
-License: GNU General Public License v2.0 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 
 
 I. Installation
@@ -24,11 +23,6 @@ Please install and activate it before starting to use the theme Heaven11.
 
 Also the theme supports many popular plugins such as 'Elementor', 'Revolution Slider', 'WPBakery Builder', 'WooCommerce'
 and many more. They can be installed after theme activation from the menu 'Theme Panel->Theme Dashboard->Plugins'.
-
-
-III. Documentation
-
-Theme documentation is available on https://heaven11.axiomthemes.com/doc/
 
 
 IV. Resources
